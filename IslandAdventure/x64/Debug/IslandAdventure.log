@@ -1,0 +1,8 @@
+﻿  Area.cpp
+  Game.cpp
+  InterAction.cpp
+  Math.cpp
+  TextController.cpp
+  Code wird generiert...
+C:\Users\Davis\source\repos\IslandAdventure\IslandAdventure\TextController.cpp(25): warning C4715: "CTextController::GetAreaName": Nicht alle Codepfade geben einen Wert zurück.
+  IslandAdventure.vcxproj -> C:\Users\Davis\source\repos\IslandAdventure\x64\Debug\IslandAdventure.exe
