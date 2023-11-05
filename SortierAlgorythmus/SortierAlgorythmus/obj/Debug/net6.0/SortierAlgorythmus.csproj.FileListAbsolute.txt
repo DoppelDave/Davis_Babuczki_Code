@@ -1,0 +1,29 @@
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.exe
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.deps.json
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.runtimeconfig.json
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.dll
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.pdb
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.csproj.AssemblyReference.cache
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.AssemblyInfoInputs.cache
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.AssemblyInfo.cs
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.csproj.CoreCompileInputs.cache
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.dll
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\refint\SortierAlgorythmus.dll
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.pdb
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.genruntimeconfig.cache
+C:\Users\Davis\source\repos\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\ref\SortierAlgorythmus.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.exe
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.deps.json
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.runtimeconfig.json
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\bin\Debug\net6.0\SortierAlgorythmus.pdb
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.AssemblyInfoInputs.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.AssemblyInfo.cs
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\refint\SortierAlgorythmus.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.pdb
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\SortierAlgorythmus.genruntimeconfig.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\SortierAlgorythmus\SortierAlgorythmus\obj\Debug\net6.0\ref\SortierAlgorythmus.dll
