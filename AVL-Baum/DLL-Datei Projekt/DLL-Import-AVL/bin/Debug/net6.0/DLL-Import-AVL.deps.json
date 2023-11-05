@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DLL-Import-AVL/1.0.0": {
+        "runtime": {
+          "DLL-Import-AVL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLL-Import-AVL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

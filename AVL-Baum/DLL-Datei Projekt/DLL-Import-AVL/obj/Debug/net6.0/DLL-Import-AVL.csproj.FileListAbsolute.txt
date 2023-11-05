@@ -1,0 +1,30 @@
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.exe
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.deps.json
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.runtimeconfig.json
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.dll
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.pdb
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.csproj.AssemblyReference.cache
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.AssemblyInfoInputs.cache
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.AssemblyInfo.cs
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.csproj.CoreCompileInputs.cache
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.dll
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\refint\DLL-Import-AVL.dll
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.pdb
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.genruntimeconfig.cache
+C:\Users\Davis\source\repos\DLL-Import-AVL\DLL-Import-AVL\obj\Debug\net6.0\ref\DLL-Import-AVL.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.exe
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.deps.json
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.runtimeconfig.json
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\bin\Debug\net6.0\DLL-Import-AVL.pdb
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.csproj.AssemblyReference.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.AssemblyInfoInputs.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.AssemblyInfo.cs
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\refint\DLL-Import-AVL.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.pdb
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\DLL-Import-AVL.genruntimeconfig.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\AVL-Baum\DLL-Datei Projekt\DLL-Import-AVL\obj\Debug\net6.0\ref\DLL-Import-AVL.dll

@@ -1,0 +1,15 @@
+D:\Games Programming\Vektor Mathematik\Vektor Mathematik\bin\Debug\Vektor Mathematik.exe.config
+D:\Games Programming\Vektor Mathematik\Vektor Mathematik\bin\Debug\Vektor Mathematik.exe
+D:\Games Programming\Vektor Mathematik\Vektor Mathematik\bin\Debug\Vektor Mathematik.pdb
+D:\Games Programming\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.csproj.AssemblyReference.cache
+D:\Games Programming\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.csproj.CoreCompileInputs.cache
+D:\Games Programming\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.exe
+D:\Games Programming\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.pdb
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\bin\Debug\Vektor Mathematik.exe.config
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\bin\Debug\Vektor Mathematik.exe
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\bin\Debug\Vektor Mathematik.pdb
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.csproj.AssemblyReference.cache
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.exe
+C:\Users\Davis\Desktop\Vektor Mathematik\Vektor Mathematik\obj\Debug\Vektor Mathematik.pdb

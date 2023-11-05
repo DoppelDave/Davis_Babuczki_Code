@@ -1,0 +1,30 @@
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.exe
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.deps.json
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.runtimeconfig.json
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.dll
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.pdb
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.csproj.AssemblyReference.cache
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.AssemblyInfoInputs.cache
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.AssemblyInfo.cs
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.dll
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\refint\new_MonsterkampfSimulator.dll
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.pdb
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.genruntimeconfig.cache
+C:\Users\Davis\source\repos\new_MonsterkampfSimulator\new_MonsterkampfSimulator\obj\Debug\net6.0\ref\new_MonsterkampfSimulator.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.exe
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.deps.json
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.runtimeconfig.json
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\bin\Debug\net6.0\new_MonsterkampfSimulator.pdb
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.csproj.AssemblyReference.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.AssemblyInfoInputs.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.AssemblyInfo.cs
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\refint\new_MonsterkampfSimulator.dll
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.pdb
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\new_MonsterkampfSimulator.genruntimeconfig.cache
+C:\Users\Davis\Desktop\Portfolio Modul 1 Davis Babuczki\MonsterkampfSimulator\MonsterkampfSimulatorData\new_MonsterkampfSimulator\obj\Debug\net6.0\ref\new_MonsterkampfSimulator.dll
