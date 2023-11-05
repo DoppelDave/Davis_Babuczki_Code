@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08fcfa3fb3a48264f88828de9465cb6f, type: 3}
+  m_Name: 3_Custom_Terrain
+  m_EditorClassIdentifier: 
+  mapWidth: 1
+  mapHeight: 1
+  heightMultiplier: 100
+  noiseScale: 0
+  octaves: 0
+  persistance: 0
+  lacunarity: 0
+  offset: {x: 0, y: 0}
+  seed: 0
+  regions:
+  - name: 
+    height: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+  - name: 
+    height: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+  heightCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  useBorder: 0
+  useInvertBorder: 0
+  borderMultiplikator: 0.2
+  terrainMaterial: {fileID: 2100000, guid: 36a7673d73a5a7b4c9d33998ea480a75, type: 2}
