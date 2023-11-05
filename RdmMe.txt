@@ -1,0 +1,19 @@
+C# Konsolenanwendungen:
+
+AVL-Baum (1.S)
+EscapeRoom (1.S)
+MonsterkampfSimulator (1.S)
+SortierAlgorythmus (1.S)
+Vektormathematik (1.S)
+
+C# mit Unity
+
+Spieleprojekt_Ego_Shooter (1.S)
+EngineToolEntwicklung (Tool zur prozeduralen Generierung eines anpassbaren Terrains) (2.S) !
+KI (FinalStateMachine für IngameKI) !
+C++ 
+
+Island Adventure (3.S)(noch nicht fertig) !
+
+C++ OpenGL 
+Graphicsprogramming (noch nicht fertig) !
