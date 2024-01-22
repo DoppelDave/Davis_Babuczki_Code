@@ -11,9 +11,10 @@ C# mit Unity
 Spieleprojekt_Ego_Shooter (1.S)
 EngineToolEntwicklung (Tool zur prozeduralen Generierung eines anpassbaren Terrains) (2.S) !
 KI (FinalStateMachine für IngameKI) !
-C++ 
 
-Island Adventure (3.S)(noch nicht fertig) !
+C++ / Unreal
+Playerpawn: Charactersteuerung
+Island Adventure (3.S)(noch nicht fertiggestellt !
 
 C++ OpenGL 
-Graphicsprogramming (noch nicht fertig) !
+Graphicsprogramming (noch nicht fertiggestellt)
